@@ -1,4 +1,4 @@
-# [Survey Monkey](https://fraula.github.io/Survey-Monkey/)
+# [Survey Monkey](https://egorvelv.github.io/Survey-Monkey/)
 
 This is a project where I tried some new things and developed some of my skills. The main things i learned here:
 
